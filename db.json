@@ -1,0 +1,1068 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "aaaaa",
+      "password": "123456",
+      "phone": "15177733550",
+      "email": "321456@163.com",
+      "shoppingcar": [
+        {
+          "id": 4,
+          "name": "联想(Lenovo)小新Air15 2021锐龙版全面屏轻薄笔记本电脑(8核R7-4800U 16G 512G 高色域)深空灰",
+          "price": 4799,
+          "type": [
+            "【Air15】R7 16G 512G",
+            "【YOGA14S】标压R7 高分辨"
+          ],
+          "types": "C",
+          "mainImg": [
+            "./static/img/电脑/联想(Lenovo)小新Air15 2021锐龙版全面屏轻薄笔记本电脑(8核R7-4800U 16G 512G 高色域)深空灰/main.jpg"
+          ],
+          "detailImg": [
+            "./static/img/电脑/联想(Lenovo)小新Air15 2021锐龙版全面屏轻薄笔记本电脑(8核R7-4800U 16G 512G 高色域)深空灰/1.jpg",
+            "./static/img/电脑/联想(Lenovo)小新Air15 2021锐龙版全面屏轻薄笔记本电脑(8核R7-4800U 16G 512G 高色域)深空灰/2.jpg",
+            "./static/img/电脑/联想(Lenovo)小新Air15 2021锐龙版全面屏轻薄笔记本电脑(8核R7-4800U 16G 512G 高色域)深空灰/3.jpg"
+          ],
+          "moreAbout": "./static/img/电脑/联想(Lenovo)小新Air15 2021锐龙版全面屏轻薄笔记本电脑(8核R7-4800U 16G 512G 高色域)深空灰/canshu.png",
+          "buyCount": 1
+        },
+        {
+          "id": 9,
+          "name": "美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3",
+          "price": 4999,
+          "type": [
+            "【高性价比变频】-智能升级版"
+          ],
+          "types": "A",
+          "mainImg": [
+            "./static/img/空调/美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3/main1.jpg",
+            "./static/img/空调/美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3/main2.jpg"
+          ],
+          "detailImg": [
+            "./static/img/空调/美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3/1.jpg",
+            "./static/img/空调/美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3/2.jpg",
+            "./static/img/空调/美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3/3.jpg"
+          ],
+          "moreAbout": "./static/img/空调/美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3/canshu.png",
+          "buyCount": 1
+        },
+        {
+          "id": 8,
+          "name": "联想ThinkPad E15锐龙版 R7 15.6英寸轻薄笔记本电脑高清屏（锐龙R7 16G 1TB SSD FHD）",
+          "price": 5454,
+          "type": [
+            "八核 锐龙处理器",
+            "六核锐龙处理器"
+          ],
+          "types": "C",
+          "mainImg": [
+            "./static/img/电脑/联想ThinkPad E15锐龙版 R7 15.6英寸轻薄笔记本电脑高清屏（锐龙R7 16G 1TB SSD FHD）/main.jpg"
+          ],
+          "detailImg": [
+            "./static/img/电脑/联想ThinkPad E15锐龙版 R7 15.6英寸轻薄笔记本电脑高清屏（锐龙R7 16G 1TB SSD FHD）/1.jpg",
+            "./static/img/电脑/联想ThinkPad E15锐龙版 R7 15.6英寸轻薄笔记本电脑高清屏（锐龙R7 16G 1TB SSD FHD）/2.jpg",
+            "./static/img/电脑/联想ThinkPad E15锐龙版 R7 15.6英寸轻薄笔记本电脑高清屏（锐龙R7 16G 1TB SSD FHD）/3.jpg"
+          ],
+          "moreAbout": "./static/img/电脑/联想ThinkPad E15锐龙版 R7 15.6英寸轻薄笔记本电脑高清屏（锐龙R7 16G 1TB SSD FHD）/canshu.png",
+          "buyCount": 3
+        },
+        {
+          "id": 8,
+          "name": "容声（Ronshen）592升对开门冰箱双开门大容量 变频风冷无霜 一级能效 智能节能BCD-592WD16HPA",
+          "price": 3999,
+          "type": [
+            "【颜值新品】592L智能一级",
+            "【一级变频】646L智能超大"
+          ],
+          "types": "R",
+          "mainImg": [
+            "./static/img/冰箱/容声（Ronshen）592升对开门冰箱双开门大容量 变频风冷无霜 一级能效 智能节能BCD-592WD16HPA/main.jpg"
+          ],
+          "detailImg": [
+            "./static/img/冰箱/容声（Ronshen）592升对开门冰箱双开门大容量 变频风冷无霜 一级能效 智能节能BCD-592WD16HPA/1.jpg",
+            "./static/img/冰箱/容声（Ronshen）592升对开门冰箱双开门大容量 变频风冷无霜 一级能效 智能节能BCD-592WD16HPA/2.jpg",
+            "./static/img/冰箱/容声（Ronshen）592升对开门冰箱双开门大容量 变频风冷无霜 一级能效 智能节能BCD-592WD16HPA/3.jpg"
+          ],
+          "moreAbout": "./static/img/冰箱/容声（Ronshen）592升对开门冰箱双开门大容量 变频风冷无霜 一级能效 智能节能BCD-592WD16HPA/canshu.png",
+          "buyCount": 1
+        },
+        {
+          "id": 3,
+          "name": "海尔（Haier）216升 三门冰箱 三温区变温 007软冷冻 低温补偿 炫金外观 直冷小冰箱 BCD-216STPT",
+          "price": 1299,
+          "type": [
+            "【WiFi智控】218升变频无霜",
+            "【超级新品】216L中门软冷"
+          ],
+          "types": "R",
+          "mainImg": [
+            "./static/img/冰箱/海尔（Haier）216升 三门冰箱 三温区变温 007软冷冻 低温补偿 炫金外观 直冷小冰箱 BCD-216STPT/main.jpg"
+          ],
+          "detailImg": [
+            "./static/img/冰箱/海尔（Haier）216升 三门冰箱 三温区变温 007软冷冻 低温补偿 炫金外观 直冷小冰箱 BCD-216STPT/1.jpg",
+            "./static/img/冰箱/海尔（Haier）216升 三门冰箱 三温区变温 007软冷冻 低温补偿 炫金外观 直冷小冰箱 BCD-216STPT/2.jpg"
+          ],
+          "moreAbout": "./static/img/冰箱/海尔（Haier）216升 三门冰箱 三温区变温 007软冷冻 低温补偿 炫金外观 直冷小冰箱 BCD-216STPT/canshu.png",
+          "buyCount": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "bbb",
+      "password": "111111",
+      "phone": "15188866550",
+      "email": "123456@163.com",
+      "shoppingcar": []
+    },
+    {
+      "id": 3,
+      "username": "ccc",
+      "password": "222222",
+      "phone": "15133751110",
+      "email": "111234@163.com",
+      "shoppingcar": []
+    },
+    {
+      "id": 4,
+      "username": "asdasd",
+      "password": "123456",
+      "phone": "15177776666",
+      "email": "151@qq.com",
+      "shoppingcar": []
+    }
+  ],
+  "Refrigerators": [
+    {
+      "id": 1,
+      "name": "创维(SKYWORTH) 191升三门冰箱 小冰箱 静音省电三门电冰箱 比双门冰箱多个中门软冷冻 家用冰箱D19B",
+      "price": 980,
+      "type": [
+        "191L旗舰三门(金)",
+        "160L两门冰箱"
+      ],
+      "types": "R",
+      "mainImg": [
+        "./static/img/冰箱/创维(SKYWORTH) 191升三门冰箱 小冰箱 静音省电三门电冰箱 比双门冰箱多个中门软冷冻 家用冰箱D19B/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/冰箱/创维(SKYWORTH) 191升三门冰箱 小冰箱 静音省电三门电冰箱 比双门冰箱多个中门软冷冻 家用冰箱D19B/1.jpg",
+        "./static/img/冰箱/创维(SKYWORTH) 191升三门冰箱 小冰箱 静音省电三门电冰箱 比双门冰箱多个中门软冷冻 家用冰箱D19B/2.jpg",
+        "./static/img/冰箱/创维(SKYWORTH) 191升三门冰箱 小冰箱 静音省电三门电冰箱 比双门冰箱多个中门软冷冻 家用冰箱D19B/3.jpg"
+      ],
+      "moreAbout": "./static/img/冰箱/创维(SKYWORTH) 191升三门冰箱 小冰箱 静音省电三门电冰箱 比双门冰箱多个中门软冷冻 家用冰箱D19B/canshu.png"
+    },
+    {
+      "id": 2,
+      "name": "海尔（Haier）178升 双门冰箱 小巧不占地 节能静音 金色外观 租房必备 直冷家用电冰箱 BCD-178TMPT",
+      "price": 999,
+      "type": [
+        "【变频彩晶】272L风冷无霜",
+        "【超级新品】178L节能静音"
+      ],
+      "types": "R",
+      "mainImg": [
+        "./static/img/冰箱/海尔（Haier）178升 双门冰箱 小巧不占地 节能静音 金色外观 租房必备 直冷家用电冰箱 BCD-178TMPT/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/冰箱/海尔（Haier）178升 双门冰箱 小巧不占地 节能静音 金色外观 租房必备 直冷家用电冰箱 BCD-178TMPT/1.jpg",
+        "./static/img/冰箱/海尔（Haier）178升 双门冰箱 小巧不占地 节能静音 金色外观 租房必备 直冷家用电冰箱 BCD-178TMPT/2.jpg"
+      ],
+      "moreAbout": "./static/img/冰箱/海尔（Haier）178升 双门冰箱 小巧不占地 节能静音 金色外观 租房必备 直冷家用电冰箱 BCD-178TMPT/canshu.png"
+    },
+    {
+      "id": 3,
+      "name": "海尔（Haier）216升 三门冰箱 三温区变温 007软冷冻 低温补偿 炫金外观 直冷小冰箱 BCD-216STPT",
+      "price": 1299,
+      "type": [
+        "【WiFi智控】218升变频无霜",
+        "【超级新品】216L中门软冷"
+      ],
+      "types": "R",
+      "mainImg": [
+        "./static/img/冰箱/海尔（Haier）216升 三门冰箱 三温区变温 007软冷冻 低温补偿 炫金外观 直冷小冰箱 BCD-216STPT/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/冰箱/海尔（Haier）216升 三门冰箱 三温区变温 007软冷冻 低温补偿 炫金外观 直冷小冰箱 BCD-216STPT/1.jpg",
+        "./static/img/冰箱/海尔（Haier）216升 三门冰箱 三温区变温 007软冷冻 低温补偿 炫金外观 直冷小冰箱 BCD-216STPT/2.jpg"
+      ],
+      "moreAbout": "./static/img/冰箱/海尔（Haier）216升 三门冰箱 三温区变温 007软冷冻 低温补偿 炫金外观 直冷小冰箱 BCD-216STPT/canshu.png"
+    },
+    {
+      "id": 4,
+      "name": "海尔（Haier）430升 法式多门冰箱 1级能效 变频无霜 干湿分储 三档变温 家用电冰箱BCD-430WDGR",
+      "price": 5699,
+      "type": [
+        "【变频彩晶】331升风冷无霜",
+        "【彩晶变频】430L干湿分储"
+      ],
+      "types": "R",
+      "mainImg": [
+        "./static/img/冰箱/海尔（Haier）430升 法式多门冰箱 1级能效 变频无霜 干湿分储 三档变温 家用电冰箱BCD-430WDGR/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/冰箱/海尔（Haier）430升 法式多门冰箱 1级能效 变频无霜 干湿分储 三档变温 家用电冰箱BCD-430WDGR/1.jpg",
+        "./static/img/冰箱/海尔（Haier）430升 法式多门冰箱 1级能效 变频无霜 干湿分储 三档变温 家用电冰箱BCD-430WDGR/2.jpg",
+        "./static/img/冰箱/海尔（Haier）430升 法式多门冰箱 1级能效 变频无霜 干湿分储 三档变温 家用电冰箱BCD-430WDGR/3.jpg"
+      ],
+      "moreAbout": "./static/img/冰箱/海尔（Haier）430升 法式多门冰箱 1级能效 变频无霜 干湿分储 三档变温 家用电冰箱BCD-430WDGR/canshu.png"
+    },
+    {
+      "id": 5,
+      "name": "海尔（Haier）515升 对开门冰箱 AFR精控多路送风 DEO净味 双变频节能 家用电冰箱 BCD-515WDPD",
+      "price": 3399,
+      "type": [
+        "【智能操控】642L变频无霜",
+        "【热销爆款】515L变频无霜"
+      ],
+      "types": "R",
+      "mainImg": [
+        "./static/img/冰箱/海尔（Haier）515升 对开门冰箱 AFR精控多路送风 DEO净味 双变频节能 家用电冰箱 BCD-515WDPD/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/冰箱/海尔（Haier）515升 对开门冰箱 AFR精控多路送风 DEO净味 双变频节能 家用电冰箱 BCD-515WDPD/1.jpg",
+        "./static/img/冰箱/海尔（Haier）515升 对开门冰箱 AFR精控多路送风 DEO净味 双变频节能 家用电冰箱 BCD-515WDPD/2.jpg",
+        "./static/img/冰箱/海尔（Haier）515升 对开门冰箱 AFR精控多路送风 DEO净味 双变频节能 家用电冰箱 BCD-515WDPD/3.jpg"
+      ],
+      "moreAbout": "./static/img/冰箱/海尔（Haier）515升 对开门冰箱 AFR精控多路送风 DEO净味 双变频节能 家用电冰箱 BCD-515WDPD/canshu.png"
+    },
+    {
+      "id": 6,
+      "name": "康佳（KONKA）180升双门电冰箱 两门小冰箱直冷宿舍家用租房 节能省电冷冻冷藏静音（银） BCD-180GY2S",
+      "price": 859,
+      "type": [
+        "155L新品小白女神冰箱",
+        "180L租房神器-经久不衰"
+      ],
+      "types": "R",
+      "mainImg": [
+        "./static/img/冰箱/康佳（KONKA）180升双门电冰箱 两门小冰箱直冷宿舍家用租房 节能省电冷冻冷藏静音（银） BCD-180GY2S/main1.jpg",
+        "./static/img/冰箱/康佳（KONKA）180升双门电冰箱 两门小冰箱直冷宿舍家用租房 节能省电冷冻冷藏静音（银） BCD-180GY2S/main1.jpg"
+      ],
+      "detailImg": [
+        "./static/img/冰箱/康佳（KONKA）180升双门电冰箱 两门小冰箱直冷宿舍家用租房 节能省电冷冻冷藏静音（银） BCD-180GY2S/1.jpg",
+        "./static/img/冰箱/康佳（KONKA）180升双门电冰箱 两门小冰箱直冷宿舍家用租房 节能省电冷冻冷藏静音（银） BCD-180GY2S/2.jpg",
+        "./static/img/冰箱/康佳（KONKA）180升双门电冰箱 两门小冰箱直冷宿舍家用租房 节能省电冷冻冷藏静音（银） BCD-180GY2S/3.jpg"
+      ],
+      "moreAbout": "./static/img/冰箱/康佳（KONKA）180升双门电冰箱 两门小冰箱直冷宿舍家用租房 节能省电冷冻冷藏静音（银） BCD-180GY2S/canshu.png"
+    },
+    {
+      "id": 7,
+      "name": "容声（Ronshen）321升 法式多门四门电冰箱 矢量双变频 一级能效风冷无霜家用变温抽屉BCD-321WD11MP",
+      "price": 3599,
+      "type": [
+        "【母婴臻储】501L四维净化",
+        "【浪漫法式】321L一级能效"
+      ],
+      "types": "R",
+      "mainImg": [
+        "./static/img/冰箱/容声（Ronshen）321升 法式多门四门电冰箱 矢量双变频 一级能效风冷无霜家用变温抽屉BCD-321WD11MP/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/冰箱/容声（Ronshen）321升 法式多门四门电冰箱 矢量双变频 一级能效风冷无霜家用变温抽屉BCD-321WD11MP/1.jpg",
+        "./static/img/冰箱/容声（Ronshen）321升 法式多门四门电冰箱 矢量双变频 一级能效风冷无霜家用变温抽屉BCD-321WD11MP/2.jpg",
+        "./static/img/冰箱/容声（Ronshen）321升 法式多门四门电冰箱 矢量双变频 一级能效风冷无霜家用变温抽屉BCD-321WD11MP/3.jpg"
+      ],
+      "moreAbout": "./static/img/冰箱/容声（Ronshen）321升 法式多门四门电冰箱 矢量双变频 一级能效风冷无霜家用变温抽屉BCD-321WD11MP/canshu.png"
+    },
+    {
+      "id": 8,
+      "name": "容声（Ronshen）592升对开门冰箱双开门大容量 变频风冷无霜 一级能效 智能节能BCD-592WD16HPA",
+      "price": 3999,
+      "type": [
+        "【颜值新品】592L智能一级",
+        "【一级变频】646L智能超大"
+      ],
+      "types": "R",
+      "mainImg": [
+        "./static/img/冰箱/容声（Ronshen）592升对开门冰箱双开门大容量 变频风冷无霜 一级能效 智能节能BCD-592WD16HPA/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/冰箱/容声（Ronshen）592升对开门冰箱双开门大容量 变频风冷无霜 一级能效 智能节能BCD-592WD16HPA/1.jpg",
+        "./static/img/冰箱/容声（Ronshen）592升对开门冰箱双开门大容量 变频风冷无霜 一级能效 智能节能BCD-592WD16HPA/2.jpg",
+        "./static/img/冰箱/容声（Ronshen）592升对开门冰箱双开门大容量 变频风冷无霜 一级能效 智能节能BCD-592WD16HPA/3.jpg"
+      ],
+      "moreAbout": "./static/img/冰箱/容声（Ronshen）592升对开门冰箱双开门大容量 变频风冷无霜 一级能效 智能节能BCD-592WD16HPA/canshu.png"
+    },
+    {
+      "id": 9,
+      "name": "上菱BCD-183D 183升双门冰箱 租房家用小型两门 优质压缩机静音节能省电 冷藏冷冻小冰箱",
+      "price": 788,
+      "type": [
+        "183L爆款双门",
+        "185L风冷双门冰箱"
+      ],
+      "types": "R",
+      "mainImg": [
+        "./static/img/冰箱/上菱BCD-183D 183升双门冰箱 租房家用小型两门 优质压缩机静音节能省电 冷藏冷冻小冰箱/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/冰箱/上菱BCD-183D 183升双门冰箱 租房家用小型两门 优质压缩机静音节能省电 冷藏冷冻小冰箱/1.jpg",
+        "./static/img/冰箱/上菱BCD-183D 183升双门冰箱 租房家用小型两门 优质压缩机静音节能省电 冷藏冷冻小冰箱/2.jpg",
+        "./static/img/冰箱/上菱BCD-183D 183升双门冰箱 租房家用小型两门 优质压缩机静音节能省电 冷藏冷冻小冰箱/3.jpg"
+      ],
+      "moreAbout": "./static/img/冰箱/上菱BCD-183D 183升双门冰箱 租房家用小型两门 优质压缩机静音节能省电 冷藏冷冻小冰箱/canshu.png"
+    },
+    {
+      "id": 10,
+      "name": "西门子（SIEMENS）610升 对开门冰箱 家用变频双开门电冰箱 风冷无霜 BCD-610W(KA92NV03TI)",
+      "price": 5599,
+      "type": [
+        "【对开旗舰】501L纤维易嵌",
+        "【对开机王】610L风冷无霜"
+      ],
+      "types": "R",
+      "mainImg": [
+        "./static/img/冰箱/西门子（SIEMENS）610升 对开门冰箱 家用变频双开门电冰箱 风冷无霜 BCD-610W(KA92NV03TI)/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/冰箱/西门子（SIEMENS）610升 对开门冰箱 家用变频双开门电冰箱 风冷无霜 BCD-610W(KA92NV03TI)/1.jpg",
+        "./static/img/冰箱/西门子（SIEMENS）610升 对开门冰箱 家用变频双开门电冰箱 风冷无霜 BCD-610W(KA92NV03TI)/2.jpg",
+        "./static/img/冰箱/西门子（SIEMENS）610升 对开门冰箱 家用变频双开门电冰箱 风冷无霜 BCD-610W(KA92NV03TI)/3.jpg"
+      ],
+      "moreAbout": "./static/img/冰箱/西门子（SIEMENS）610升 对开门冰箱 家用变频双开门电冰箱 风冷无霜 BCD-610W(KA92NV03TI)/canshu.png"
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "name": "2019款 Apple iPad mini 5 平板电脑 7.9英寸（64GB WLAN版 MUQW2CHA 深空灰色）",
+      "price": 2921,
+      "type": [
+        "2019款 64G 金色",
+        "2019款 64G 深空灰"
+      ],
+      "types": "C",
+      "mainImg": [
+        "./static/img/电脑/2019款 Apple iPad mini 5 平板电脑 7.9英寸（64GB WLAN版 MUQW2CHA 深空灰色）/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电脑/2019款 Apple iPad mini 5 平板电脑 7.9英寸（64GB WLAN版 MUQW2CHA 深空灰色）/1.jpg",
+        "./static/img/电脑/2019款 Apple iPad mini 5 平板电脑 7.9英寸（64GB WLAN版 MUQW2CHA 深空灰色）/2.jpg",
+        "./static/img/电脑/2019款 Apple iPad mini 5 平板电脑 7.9英寸（64GB WLAN版 MUQW2CHA 深空灰色）/3.jpg"
+      ],
+      "moreAbout": "./static/img/电脑/2019款 Apple iPad mini 5 平板电脑 7.9英寸（64GB WLAN版 MUQW2CHA 深空灰色）/canshu.png"
+    },
+    {
+      "id": 2,
+      "name": "2019款 Apple iPad mini 5 平板电脑 7.9英寸（64GB WLAN版 MUQX2CHA 银色）",
+      "price": 2921,
+      "type": [
+        "2019款 256G 银色",
+        "2019款 64G 银色"
+      ],
+      "types": "C",
+      "mainImg": [
+        "./static/img/电脑/2019款 Apple iPad mini 5 平板电脑 7.9英寸（64GB WLAN版 MUQX2CHA 银色）/main1.jpg",
+        "./static/img/电脑/2019款 Apple iPad mini 5 平板电脑 7.9英寸（64GB WLAN版 MUQX2CHA 银色）/main2.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电脑/2019款 Apple iPad mini 5 平板电脑 7.9英寸（64GB WLAN版 MUQW2CHA 深空灰色）/1.jpg",
+        "./static/img/电脑/2019款 Apple iPad mini 5 平板电脑 7.9英寸（64GB WLAN版 MUQW2CHA 深空灰色）/2.jpg",
+        "./static/img/电脑/2019款 Apple iPad mini 5 平板电脑 7.9英寸（64GB WLAN版 MUQW2CHA 深空灰色）/3.jpg"
+      ],
+      "moreAbout": "./static/img/电脑/2019款 Apple iPad mini 5 平板电脑 7.9英寸（64GB WLAN版 MUQX2CHA 银色）/canshu.png"
+    },
+    {
+      "id": 3,
+      "name": "2020新款 Apple iPad 第八代 10.2英寸 128G Wifi版 平板电脑 MYLD2CHA 深空灰",
+      "price": 2999,
+      "type": [
+        "32G 深空灰",
+        "128G 深空灰"
+      ],
+      "types": "C",
+      "mainImg": [
+        "./static/img/电脑/2020新款 Apple iPad 第八代 10.2英寸 128G Wifi版 平板电脑 MYLD2CHA 深空灰/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电脑/2020新款 Apple iPad 第八代 10.2英寸 128G Wifi版 平板电脑 MYLD2CHA 深空灰/1.jpg"
+      ],
+      "moreAbout": "./static/img/电脑/2020新款 Apple iPad 第八代 10.2英寸 128G Wifi版 平板电脑 MYLD2CHA 深空灰/canshu.png"
+    },
+    {
+      "id": 4,
+      "name": "联想(Lenovo)小新Air15 2021锐龙版全面屏轻薄笔记本电脑(8核R7-4800U 16G 512G 高色域)深空灰",
+      "price": 4799,
+      "type": [
+        "【Air15】R7 16G 512G",
+        "【YOGA14S】标压R7 高分辨"
+      ],
+      "types": "C",
+      "mainImg": [
+        "./static/img/电脑/联想(Lenovo)小新Air15 2021锐龙版全面屏轻薄笔记本电脑(8核R7-4800U 16G 512G 高色域)深空灰/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电脑/联想(Lenovo)小新Air15 2021锐龙版全面屏轻薄笔记本电脑(8核R7-4800U 16G 512G 高色域)深空灰/1.jpg",
+        "./static/img/电脑/联想(Lenovo)小新Air15 2021锐龙版全面屏轻薄笔记本电脑(8核R7-4800U 16G 512G 高色域)深空灰/2.jpg",
+        "./static/img/电脑/联想(Lenovo)小新Air15 2021锐龙版全面屏轻薄笔记本电脑(8核R7-4800U 16G 512G 高色域)深空灰/3.jpg"
+      ],
+      "moreAbout": "./static/img/电脑/联想(Lenovo)小新Air15 2021锐龙版全面屏轻薄笔记本电脑(8核R7-4800U 16G 512G 高色域)深空灰/canshu.png"
+    },
+    {
+      "id": 5,
+      "name": "联想(Lenovo)拯救者R7000P 2020新款 15.6英寸游戏笔记本电脑(R7-4800H 16G 512G SSD RTX2060 144Hz高色域)钛晶灰",
+      "price": 8299,
+      "type": [
+        "R7 16G RTX2060显卡",
+        "R5 16G GTX1650"
+      ],
+      "types": "C",
+      "mainImg": [
+        "./static/img/电脑/联想(Lenovo)拯救者R7000P 2020新款 15.6英寸游戏笔记本电脑(R7-4800H 16G 512G SSD RTX2060 144Hz高色域)钛晶灰/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电脑/联想(Lenovo)拯救者R7000P 2020新款 15.6英寸游戏笔记本电脑(R7-4800H 16G 512G SSD RTX2060 144Hz高色域)钛晶灰/1.jpg",
+        "./static/img/电脑/联想(Lenovo)拯救者R7000P 2020新款 15.6英寸游戏笔记本电脑(R7-4800H 16G 512G SSD RTX2060 144Hz高色域)钛晶灰/2.jpg",
+        "./static/img/电脑/联想(Lenovo)拯救者R7000P 2020新款 15.6英寸游戏笔记本电脑(R7-4800H 16G 512G SSD RTX2060 144Hz高色域)钛晶灰/3.jpg"
+      ],
+      "moreAbout": "./static/img/电脑/联想(Lenovo)拯救者R7000P 2020新款 15.6英寸游戏笔记本电脑(R7-4800H 16G 512G SSD RTX2060 144Hz高色域)钛晶灰/canshu.png"
+    },
+    {
+      "id": 6,
+      "name": "联想Lenovo 拯救者Y7000P 15.6英寸 i7-10875H 16G 512GB RTX2060 6G独显 144HZ 电竞屏 发烧级 吃鸡游戏本 笔记本电脑 钛晶灰",
+      "price": 8699,
+      "type": [
+        "R5-4600H GTX1650",
+        "i7-10875H RTX2060"
+      ],
+      "types": "C",
+      "mainImg": [
+        "./static/img/电脑/联想Lenovo 拯救者Y7000P 15.6英寸 i7-10875H 16G 512GB RTX2060 6G独显 144HZ 电竞屏 发烧级 吃鸡游戏本 笔记本电脑 钛晶灰/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电脑/联想Lenovo 拯救者Y7000P 15.6英寸 i7-10875H 16G 512GB RTX2060 6G独显 144HZ 电竞屏 发烧级 吃鸡游戏本 笔记本电脑 钛晶灰/1.jpg",
+        "./static/img/电脑/联想Lenovo 拯救者Y7000P 15.6英寸 i7-10875H 16G 512GB RTX2060 6G独显 144HZ 电竞屏 发烧级 吃鸡游戏本 笔记本电脑 钛晶灰/2.jpg"
+      ],
+      "moreAbout": "./static/img/电脑/联想Lenovo 拯救者Y7000P 15.6英寸 i7-10875H 16G 512GB RTX2060 6G独显 144HZ 电竞屏 发烧级 吃鸡游戏本 笔记本电脑 钛晶灰/canshu.png"
+    },
+    {
+      "id": 7,
+      "name": "联想ThinkPad E14 锐龙版（1TCD）14英寸轻薄笔记本电脑（锐龙5-4500U 16G 512GSSD IPS高分屏）黑色",
+      "price": 4299,
+      "type": [
+        "14.0英寸【R5-5400U】高清屏",
+        "14.0英寸【R3-4300U】高清屏"
+      ],
+      "types": "C",
+      "mainImg": [
+        "./static/img/电脑/联想ThinkPad E14 锐龙版（1TCD）14英寸轻薄笔记本电脑（锐龙5-4500U 16G 512GSSD IPS高分屏）黑色/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电脑/联想ThinkPad E14 锐龙版（1TCD）14英寸轻薄笔记本电脑（锐龙5-4500U 16G 512GSSD IPS高分屏）黑色/1.gif",
+        "./static/img/电脑/联想ThinkPad E14 锐龙版（1TCD）14英寸轻薄笔记本电脑（锐龙5-4500U 16G 512GSSD IPS高分屏）黑色/2.gif",
+        "./static/img/电脑/联想ThinkPad E14 锐龙版（1TCD）14英寸轻薄笔记本电脑（锐龙5-4500U 16G 512GSSD IPS高分屏）黑色/3.gif"
+      ],
+      "moreAbout": "./static/img/电脑/联想ThinkPad E14 锐龙版（1TCD）14英寸轻薄笔记本电脑（锐龙5-4500U 16G 512GSSD IPS高分屏）黑色/canshu.png"
+    },
+    {
+      "id": 8,
+      "name": "联想ThinkPad E15锐龙版 R7 15.6英寸轻薄笔记本电脑高清屏（锐龙R7 16G 1TB SSD FHD）",
+      "price": 5454,
+      "type": [
+        "八核 锐龙处理器",
+        "六核锐龙处理器"
+      ],
+      "types": "C",
+      "mainImg": [
+        "./static/img/电脑/联想ThinkPad E15锐龙版 R7 15.6英寸轻薄笔记本电脑高清屏（锐龙R7 16G 1TB SSD FHD）/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电脑/联想ThinkPad E15锐龙版 R7 15.6英寸轻薄笔记本电脑高清屏（锐龙R7 16G 1TB SSD FHD）/1.jpg",
+        "./static/img/电脑/联想ThinkPad E15锐龙版 R7 15.6英寸轻薄笔记本电脑高清屏（锐龙R7 16G 1TB SSD FHD）/2.jpg",
+        "./static/img/电脑/联想ThinkPad E15锐龙版 R7 15.6英寸轻薄笔记本电脑高清屏（锐龙R7 16G 1TB SSD FHD）/3.jpg"
+      ],
+      "moreAbout": "./static/img/电脑/联想ThinkPad E15锐龙版 R7 15.6英寸轻薄笔记本电脑高清屏（锐龙R7 16G 1TB SSD FHD）/canshu.png"
+    },
+    {
+      "id": 9,
+      "name": "荣耀（honor） MagicBook 16 SE 2020新款 16.1英寸全面屏轻薄本笔记本电脑 （R5-3550H 16G 512G 多屏协同）冰河银",
+      "price": 4499,
+      "type": [
+        "R5-3550H 16G 512G"
+      ],
+      "types": "C",
+      "mainImg": [
+        "./static/img/电脑/荣耀（honor） MagicBook 16 SE 2020新款 16.1英寸全面屏轻薄本笔记本电脑 （R5-3550H 16G 512G 多屏协同）冰河银/main1.jpg",
+        "./static/img/电脑/荣耀（honor） MagicBook 16 SE 2020新款 16.1英寸全面屏轻薄本笔记本电脑 （R5-3550H 16G 512G 多屏协同）冰河银/main2.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电脑/荣耀（honor） MagicBook 16 SE 2020新款 16.1英寸全面屏轻薄本笔记本电脑 （R5-3550H 16G 512G 多屏协同）冰河银/1.jpg",
+        "./static/img/电脑/荣耀（honor） MagicBook 16 SE 2020新款 16.1英寸全面屏轻薄本笔记本电脑 （R5-3550H 16G 512G 多屏协同）冰河银/2.jpg",
+        "./static/img/电脑/荣耀（honor） MagicBook 16 SE 2020新款 16.1英寸全面屏轻薄本笔记本电脑 （R5-3550H 16G 512G 多屏协同）冰河银/3.jpg"
+      ],
+      "moreAbout": "./static/img/电脑/荣耀（honor） MagicBook 16 SE 2020新款 16.1英寸全面屏轻薄本笔记本电脑 （R5-3550H 16G 512G 多屏协同）冰河银/canshu.png"
+    },
+    {
+      "id": 10,
+      "name": "世纪之星(CENTURY STAR)i7级六核E5 2620RX550 4G独显8GB内存256GB固态 家用办公娱乐LOL游戏电脑台式机 组装电脑 台式电脑 电脑主机 整机",
+      "price": 1499,
+      "type": [
+        "i7级六核/RTX550 4G独显"
+      ],
+      "types": "C",
+      "mainImg": [
+        "./static/img/电脑/世纪之星(CENTURY STAR)i7级六核E5 2620RX550 4G独显8GB内存256GB固态 家用办公娱乐LOL游戏电脑台式机 组装电脑 台式电脑 电脑主机 整机/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电脑/世纪之星(CENTURY STAR)i7级六核E5 2620RX550 4G独显8GB内存256GB固态 家用办公娱乐LOL游戏电脑台式机 组装电脑 台式电脑 电脑主机 整机/1.jpg",
+        "./static/img/电脑/世纪之星(CENTURY STAR)i7级六核E5 2620RX550 4G独显8GB内存256GB固态 家用办公娱乐LOL游戏电脑台式机 组装电脑 台式电脑 电脑主机 整机/2.jpg",
+        "./static/img/电脑/世纪之星(CENTURY STAR)i7级六核E5 2620RX550 4G独显8GB内存256GB固态 家用办公娱乐LOL游戏电脑台式机 组装电脑 台式电脑 电脑主机 整机/3.jpg"
+      ],
+      "moreAbout": "./static/img/电脑/世纪之星(CENTURY STAR)i7级六核E5 2620RX550 4G独显8GB内存256GB固态 家用办公娱乐LOL游戏电脑台式机 组装电脑 台式电脑 电脑主机 整机/canshu.png"
+    }
+  ],
+  "televisions": [
+    {
+      "id": 1,
+      "name": "TCL 55V6 55英寸液晶平板电视机 4k超高清 超薄 全面屏 人工智能 智慧屏 玩转语音操控 教育电视",
+      "price": 2099,
+      "type": [
+        "V6智慧全面屏"
+      ],
+      "types": "T",
+      "mainImg": [
+        "./static/img/电视/TCL 55V6 55英寸液晶平板电视机 4k超高清 超薄 全面屏 人工智能 智慧屏 玩转语音操控 教育电视/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电视/TCL 55V6 55英寸液晶平板电视机 4k超高清 超薄 全面屏 人工智能 智慧屏 玩转语音操控 教育电视/1.jpg",
+        "./static/img/电视/TCL 55V6 55英寸液晶平板电视机 4k超高清 超薄 全面屏 人工智能 智慧屏 玩转语音操控 教育电视/2.jpg",
+        "./static/img/电视/TCL 55V6 55英寸液晶平板电视机 4k超高清 超薄 全面屏 人工智能 智慧屏 玩转语音操控 教育电视/3.jpg"
+      ],
+      "moreAbout": "./static/img/电视/TCL 55V6 55英寸液晶平板电视机 4k超高清 超薄 全面屏 人工智能 智慧屏 玩转语音操控 教育电视/canshu.png"
+    },
+    {
+      "id": 2,
+      "name": "创维(SKYWORTH) 65A4 65英寸免遥控声控AI 智能投屏电视 4K HDR 超画质调校 家庭K歌 教育后台",
+      "price": 3699,
+      "type": [
+        "远场AI声控电视-A4"
+      ],
+      "types": "T",
+      "mainImg": [
+        "./static/img/电视/创维(SKYWORTH) 65A4 65英寸免遥控声控AI 智能投屏电视 4K HDR 超画质调校 家庭K歌 教育后台/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电视/创维(SKYWORTH) 65A4 65英寸免遥控声控AI 智能投屏电视 4K HDR 超画质调校 家庭K歌 教育后台/1.jpg",
+        "./static/img/电视/创维(SKYWORTH) 65A4 65英寸免遥控声控AI 智能投屏电视 4K HDR 超画质调校 家庭K歌 教育后台/2.jpg",
+        "./static/img/电视/创维(SKYWORTH) 65A4 65英寸免遥控声控AI 智能投屏电视 4K HDR 超画质调校 家庭K歌 教育后台/3.jpg"
+      ],
+      "moreAbout": "./static/img/电视/创维(SKYWORTH) 65A4 65英寸免遥控声控AI 智能投屏电视 4K HDR 超画质调校 家庭K歌 教育后台/canshu.png"
+    },
+    {
+      "id": 3,
+      "name": "创维(SKYWORTH)55A4 55英寸免遥控声控AI 智能投屏电视 4K HDR 超画质调校 家庭K歌 教育后台",
+      "price": 2699,
+      "type": [
+        "免遥控声控AI-A4"
+      ],
+      "types": "T",
+      "mainImg": [
+        "./static/img/电视/创维(SKYWORTH)55A4 55英寸免遥控声控AI 智能投屏电视 4K HDR 超画质调校 家庭K歌 教育后台/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电视/创维(SKYWORTH)55A4 55英寸免遥控声控AI 智能投屏电视 4K HDR 超画质调校 家庭K歌 教育后台/1.jpg",
+        "./static/img/电视/创维(SKYWORTH)55A4 55英寸免遥控声控AI 智能投屏电视 4K HDR 超画质调校 家庭K歌 教育后台/2.jpg",
+        "./static/img/电视/创维(SKYWORTH)55A4 55英寸免遥控声控AI 智能投屏电视 4K HDR 超画质调校 家庭K歌 教育后台/3.jpg"
+      ],
+      "moreAbout": "./static/img/电视/创维(SKYWORTH)55A4 55英寸免遥控声控AI 智能投屏电视 4K HDR 超画质调校 家庭K歌 教育后台/canshu.png"
+    },
+    {
+      "id": 4,
+      "name": "海尔(Haier) LU65C61 65英寸 全面屏 智能语音 16G大存储 LED平板液晶电视机",
+      "price": 2899,
+      "type": [
+        "16G全面智能语音系列"
+      ],
+      "types": "T",
+      "mainImg": [
+        "./static/img/电视/海尔(Haier) LU65C61 65英寸 全面屏 智能语音 16G大存储 LED平板液晶电视机/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电视/海尔(Haier) LU65C61 65英寸 全面屏 智能语音 16G大存储 LED平板液晶电视机/1.jpg",
+        "./static/img/电视/海尔(Haier) LU65C61 65英寸 全面屏 智能语音 16G大存储 LED平板液晶电视机/2.jpg",
+        "./static/img/电视/海尔(Haier) LU65C61 65英寸 全面屏 智能语音 16G大存储 LED平板液晶电视机/3.jpg"
+      ],
+      "moreAbout": "./static/img/电视/海尔(Haier) LU65C61 65英寸 全面屏 智能语音 16G大存储 LED平板液晶电视机/canshu.png"
+    },
+    {
+      "id": 5,
+      "name": "海信(Hisense)H65E3A 65英寸 4K超高清 HDR 金属背板 人工智能液晶平板电视机 丰富影视教育资源",
+      "price": 2899,
+      "type": [
+        "4K智能爆款 手机语音-E3A"
+      ],
+      "types": "T",
+      "mainImg": [
+        "./static/img/电视/海信(Hisense)H65E3A 65英寸 4K超高清 HDR 金属背板 人工智能液晶平板电视机 丰富影视教育资源/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电视/海信(Hisense)H65E3A 65英寸 4K超高清 HDR 金属背板 人工智能液晶平板电视机 丰富影视教育资源/1.jpg",
+        "./static/img/电视/海信(Hisense)H65E3A 65英寸 4K超高清 HDR 金属背板 人工智能液晶平板电视机 丰富影视教育资源/2.jpg",
+        "./static/img/电视/海信(Hisense)H65E3A 65英寸 4K超高清 HDR 金属背板 人工智能液晶平板电视机 丰富影视教育资源/3.jpg"
+      ],
+      "moreAbout": "./static/img/电视/海信(Hisense)H65E3A 65英寸 4K超高清 HDR 金属背板 人工智能液晶平板电视机 丰富影视教育资源/canshu.png"
+    },
+    {
+      "id": 6,
+      "name": "小米(mi)电视4A 60英寸 4K超高清 人工智能语音 网络液晶平板彩电大屏电视机自营",
+      "price": 2399,
+      "type": [
+        "人工智能超高清60吋"
+      ],
+      "types": "T",
+      "mainImg": [
+        "./static/img/电视/小米(mi)电视4A 60英寸 4K超高清 人工智能语音 网络液晶平板彩电大屏电视机自营/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电视/小米(mi)电视4A 60英寸 4K超高清 人工智能语音 网络液晶平板彩电大屏电视机自营/1.jpg",
+        "./static/img/电视/小米(mi)电视4A 60英寸 4K超高清 人工智能语音 网络液晶平板彩电大屏电视机自营/2.jpg",
+        "./static/img/电视/小米(mi)电视4A 60英寸 4K超高清 人工智能语音 网络液晶平板彩电大屏电视机自营/3.jpg"
+      ],
+      "moreAbout": "./static/img/电视/小米(mi)电视4A 60英寸 4K超高清 人工智能语音 网络液晶平板彩电大屏电视机自营/canshu.png"
+    },
+    {
+      "id": 7,
+      "name": "小米(mi)全面屏电视 43英寸E43K 人工智能 全高清网络液晶平板彩电大屏电视机自营",
+      "price": 1399,
+      "type": [
+        "43英寸E43K"
+      ],
+      "types": "T",
+      "mainImg": [
+        "./static/img/电视/小米(mi)全面屏电视 43英寸E43K 人工智能 全高清网络液晶平板彩电大屏电视机自营/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电视/小米(mi)全面屏电视 43英寸E43K 人工智能 全高清网络液晶平板彩电大屏电视机自营/1.jpg",
+        "./static/img/电视/小米(mi)全面屏电视 43英寸E43K 人工智能 全高清网络液晶平板彩电大屏电视机自营/2.jpg",
+        "./static/img/电视/小米(mi)全面屏电视 43英寸E43K 人工智能 全高清网络液晶平板彩电大屏电视机自营/3.jpg"
+      ],
+      "moreAbout": "./static/img/电视/小米(mi)全面屏电视 43英寸E43K 人工智能 全高清网络液晶平板彩电大屏电视机自营/canshu.png"
+    },
+    {
+      "id": 8,
+      "name": "小米(mi)全面屏电视 65英寸E65C 4K超高清 人工智能语音 网络液晶平板彩电大屏电视机自营",
+      "price": 2899,
+      "type": [
+        "AI 全面屏C系列"
+      ],
+      "types": "T",
+      "mainImg": [
+        "./static/img/电视/小米(mi)全面屏电视 65英寸E65C 4K超高清 人工智能语音 网络液晶平板彩电大屏电视机自营/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电视/小米(mi)全面屏电视 65英寸E65C 4K超高清 人工智能语音 网络液晶平板彩电大屏电视机自营/1.jpg"
+      ],
+      "moreAbout": "./static/img/电视/小米(mi)全面屏电视 65英寸E65C 4K超高清 人工智能语音 网络液晶平板彩电大屏电视机自营/canshu.png"
+    },
+    {
+      "id": 9,
+      "name": "长虹55D4P 55英寸超薄无边全面屏 4K超高清 手机投屏 智能网络 教育电视 平板液晶电视机（黑色）",
+      "price": 2199,
+      "type": [
+        "55吋智能全面屏"
+      ],
+      "types": "T",
+      "mainImg": [
+        "./static/img/电视/长虹55D4P 55英寸超薄无边全面屏 4K超高清 手机投屏 智能网络 教育电视 平板液晶电视机（黑色）/main1.jpg",
+        "./static/img/电视/长虹55D4P 55英寸超薄无边全面屏 4K超高清 手机投屏 智能网络 教育电视 平板液晶电视机（黑色）/main2.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电视/长虹55D4P 55英寸超薄无边全面屏 4K超高清 手机投屏 智能网络 教育电视 平板液晶电视机（黑色）/1.jpg",
+        "./static/img/电视/长虹55D4P 55英寸超薄无边全面屏 4K超高清 手机投屏 智能网络 教育电视 平板液晶电视机（黑色）/2.jpg",
+        "./static/img/电视/长虹55D4P 55英寸超薄无边全面屏 4K超高清 手机投屏 智能网络 教育电视 平板液晶电视机（黑色）/3.jpg"
+      ],
+      "moreAbout": "./static/img/电视/长虹55D4P 55英寸超薄无边全面屏 4K超高清 手机投屏 智能网络 教育电视 平板液晶电视机（黑色）/canshu.png"
+    },
+    {
+      "id": 10,
+      "name": "长虹55D5P 55英寸智慧屏教育电视 AI声控 远场语音 2+16GB 4K超高清 超薄全面屏 平板液晶电视机（黑色）",
+      "price": 2399,
+      "type": [
+        "55吋AI声控智能屏"
+      ],
+      "types": "T",
+      "mainImg": [
+        "./static/img/电视/长虹55D5P 55英寸智慧屏教育电视 AI声控 远场语音 2+16GB 4K超高清 超薄全面屏 平板液晶电视机（黑色）/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/电视/长虹55D5P 55英寸智慧屏教育电视 AI声控 远场语音 2+16GB 4K超高清 超薄全面屏 平板液晶电视机（黑色）/1.jpg",
+        "./static/img/电视/长虹55D5P 55英寸智慧屏教育电视 AI声控 远场语音 2+16GB 4K超高清 超薄全面屏 平板液晶电视机（黑色）/2.jpg",
+        "./static/img/电视/长虹55D5P 55英寸智慧屏教育电视 AI声控 远场语音 2+16GB 4K超高清 超薄全面屏 平板液晶电视机（黑色）/3.jpg"
+      ],
+      "moreAbout": "./static/img/电视/长虹55D5P 55英寸智慧屏教育电视 AI声控 远场语音 2+16GB 4K超高清 超薄全面屏 平板液晶电视机（黑色）/canshu.png"
+    }
+  ],
+  "airConditioners": [
+    {
+      "id": 1,
+      "name": "格力（GREE）新1级能效3匹 变频冷暖柜机空调KFR-72LW(72530)FNhAk-B1 天丽家用圆柜",
+      "price": 8799,
+      "type": [
+        "天丽（新一级能效）"
+      ],
+      "types": "A",
+      "mainImg": [
+        "./static/img/空调/格力（GREE）新1级能效3匹 变频冷暖柜机空调KFR-72LW(72530)FNhAk-B1 天丽家用圆柜/main1.jpg",
+        "./static/img/空调/格力（GREE）新1级能效3匹 变频冷暖柜机空调KFR-72LW(72530)FNhAk-B1 天丽家用圆柜/main2.jpg"
+      ],
+      "detailImg": [
+        "./static/img/空调/格力（GREE）新1级能效3匹 变频冷暖柜机空调KFR-72LW(72530)FNhAk-B1 天丽家用圆柜/1.jpg",
+        "./static/img/空调/格力（GREE）新1级能效3匹 变频冷暖柜机空调KFR-72LW(72530)FNhAk-B1 天丽家用圆柜/2.jpg",
+        "./static/img/空调/格力（GREE）新1级能效3匹 变频冷暖柜机空调KFR-72LW(72530)FNhAk-B1 天丽家用圆柜/3.jpg"
+      ],
+      "moreAbout": "./static/img/空调/格力（GREE）新1级能效3匹 变频冷暖柜机空调KFR-72LW(72530)FNhAk-B1 天丽家用圆柜/canshu.png"
+    },
+    {
+      "id": 2,
+      "name": "格力（GREE）新能效1.5匹变频冷暖家用挂机空调KFR-35GW(35530)FNhAk-B3 天丽 三级能效",
+      "price": 2999,
+      "type": [
+        "天丽（新三级能效）"
+      ],
+      "types": "A",
+      "mainImg": [
+        "./static/img/空调/格力（GREE）新能效1.5匹变频冷暖家用挂机空调KFR-35GW(35530)FNhAk-B3 天丽 三级能效/main1.jpg",
+        "./static/img/空调/格力（GREE）新能效1.5匹变频冷暖家用挂机空调KFR-35GW(35530)FNhAk-B3 天丽 三级能效/main2.jpg"
+      ],
+      "detailImg": [
+        "./static/img/空调/格力（GREE）新能效1.5匹变频冷暖家用挂机空调KFR-35GW(35530)FNhAk-B3 天丽 三级能效/1.jpg",
+        "./static/img/空调/格力（GREE）新能效1.5匹变频冷暖家用挂机空调KFR-35GW(35530)FNhAk-B3 天丽 三级能效/2.jpg",
+        "./static/img/空调/格力（GREE）新能效1.5匹变频冷暖家用挂机空调KFR-35GW(35530)FNhAk-B3 天丽 三级能效/3.jpg",
+        "./static/img/空调/格力（GREE）新能效1.5匹变频冷暖家用挂机空调KFR-35GW(35530)FNhAk-B3 天丽 三级能效/4.jpg"
+      ],
+      "moreAbout": "./static/img/空调/格力（GREE）新能效1.5匹变频冷暖家用挂机空调KFR-35GW(35530)FNhAk-B3 天丽 三级能效/canshu.png"
+    },
+    {
+      "id": 3,
+      "name": "格力（GREE）新能效3匹变频冷暖空调柜机 KFR-72LWNhAa1BAs 云锦Ⅱ一级能效节能省电WIFI静音柜式",
+      "price": 9399,
+      "type": [
+        "云端Ⅱ一级变频（新能效升级款）"
+      ],
+      "types": "A",
+      "mainImg": [
+        "./static/img/空调/格力（GREE）新能效3匹变频冷暖空调柜机 KFR-72LWNhAa1BAs 云锦Ⅱ一级能效节能省电WIFI静音柜式/main1.jpg",
+        "./static/img/空调/格力（GREE）新能效3匹变频冷暖空调柜机 KFR-72LWNhAa1BAs 云锦Ⅱ一级能效节能省电WIFI静音柜式/main2.jpg"
+      ],
+      "detailImg": [
+        "./static/img/空调/格力（GREE）新能效3匹变频冷暖空调柜机 KFR-72LWNhAa1BAs 云锦Ⅱ一级能效节能省电WIFI静音柜式/1.jpg",
+        "./static/img/空调/格力（GREE）新能效3匹变频冷暖空调柜机 KFR-72LWNhAa1BAs 云锦Ⅱ一级能效节能省电WIFI静音柜式/2.jpg",
+        "./static/img/空调/格力（GREE）新能效3匹变频冷暖空调柜机 KFR-72LWNhAa1BAs 云锦Ⅱ一级能效节能省电WIFI静音柜式/3.jpg"
+      ],
+      "moreAbout": "./static/img/空调/格力（GREE）新能效3匹变频冷暖空调柜机 KFR-72LWNhAa1BAs 云锦Ⅱ一级能效节能省电WIFI静音柜式/canshu.png"
+    },
+    {
+      "id": 4,
+      "name": "格力（GREE）新一级能效1.5匹变频 KFR-35GW(35530)FNhAk-B1 天丽冷暖家用挂机空调",
+      "price": 3899,
+      "type": [
+        "天丽（新一级能效）"
+      ],
+      "types": "A",
+      "mainImg": [
+        "./static/img/空调/格力（GREE）新一级能效1.5匹变频 KFR-35GW(35530)FNhAk-B1 天丽冷暖家用挂机空调/main1.jpg",
+        "./static/img/空调/格力（GREE）新一级能效1.5匹变频 KFR-35GW(35530)FNhAk-B1 天丽冷暖家用挂机空调/main2.jpg"
+      ],
+      "detailImg": [
+        "./static/img/空调/格力（GREE）新一级能效1.5匹变频 KFR-35GW(35530)FNhAk-B1 天丽冷暖家用挂机空调/1.jpg",
+        "./static/img/空调/格力（GREE）新一级能效1.5匹变频 KFR-35GW(35530)FNhAk-B1 天丽冷暖家用挂机空调/2.jpg",
+        "./static/img/空调/格力（GREE）新一级能效1.5匹变频 KFR-35GW(35530)FNhAk-B1 天丽冷暖家用挂机空调/3.jpg"
+      ],
+      "moreAbout": "./static/img/空调/格力（GREE）新一级能效1.5匹变频 KFR-35GW(35530)FNhAk-B1 天丽冷暖家用挂机空调/canshu.png"
+    },
+    {
+      "id": 5,
+      "name": "格力（GREE）新一级能效大1匹 变频空调 KFR-26GW(26530)FNhAk-B1 天丽 冷暖 家用挂机省电",
+      "price": 3599,
+      "type": [
+        "天丽（新一级能效）"
+      ],
+      "types": "A",
+      "mainImg": [
+        "./static/img/空调/格力（GREE）新一级能效1.5匹变频 KFR-35GW(35530)FNhAk-B1 天丽冷暖家用挂机空调/main1.jpg",
+        "./static/img/空调/格力（GREE）新一级能效1.5匹变频 KFR-35GW(35530)FNhAk-B1 天丽冷暖家用挂机空调/main2.jpg"
+      ],
+      "detailImg": [
+        "./static/img/空调/格力（GREE）新一级能效1.5匹变频 KFR-35GW(35530)FNhAk-B1 天丽冷暖家用挂机空调/1.jpg",
+        "./static/img/空调/格力（GREE）新一级能效1.5匹变频 KFR-35GW(35530)FNhAk-B1 天丽冷暖家用挂机空调/2.jpg",
+        "./static/img/空调/格力（GREE）新一级能效1.5匹变频 KFR-35GW(35530)FNhAk-B1 天丽冷暖家用挂机空调/3.jpg"
+      ],
+      "moreAbout": "./static/img/空调/格力（GREE）新一级能效大1匹 变频空调 KFR-26GW(26530)FNhAk-B1 天丽 冷暖 家用挂机省电/canshu.png"
+    },
+    {
+      "id": 6,
+      "name": "美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用空调极光先锋KFR-35GWN8MHA1",
+      "price": 2599,
+      "type": [
+        "【智能一级】-极光先锋升级款"
+      ],
+      "types": "A",
+      "mainImg": [
+        "./static/img/空调/美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用空调极光先锋KFR-35GWN8MHA1/main1.jpg",
+        "./static/img/空调/美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用空调极光先锋KFR-35GWN8MHA1/main2.jpg"
+      ],
+      "detailImg": [
+        "./static/img/空调/美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用空调极光先锋KFR-35GWN8MHA1/1.jpg",
+        "./static/img/空调/美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用空调极光先锋KFR-35GWN8MHA1/2.jpg",
+        "./static/img/空调/美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用空调极光先锋KFR-35GWN8MHA1/3.jpg"
+      ],
+      "moreAbout": "./static/img/空调/美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用空调极光先锋KFR-35GWN8MHA1/canshu.png"
+    },
+    {
+      "id": 7,
+      "name": "美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用智弧升级款KFR-35GWN8VJC3",
+      "price": 2299,
+      "type": [
+        "【疯卖变频】-智弧升级款"
+      ],
+      "types": "A",
+      "mainImg": [
+        "./static/img/空调/美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用智弧升级款KFR-35GWN8VJC3/main1.jpg",
+        "./static/img/空调/美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用智弧升级款KFR-35GWN8VJC3/main2.jpg"
+      ],
+      "detailImg": [
+        "./static/img/空调/美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用智弧升级款KFR-35GWN8VJC3/1.jpg",
+        "./static/img/空调/美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用智弧升级款KFR-35GWN8VJC3/2.jpg",
+        "./static/img/空调/美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用智弧升级款KFR-35GWN8VJC3/3.jpg"
+      ],
+      "moreAbout": "./static/img/空调/美的(Midea) 1.5匹 新能效变频 智能冷暖挂机空调 1.5P挂壁式家用智弧升级款KFR-35GWN8VJC3/canshu.png"
+    },
+    {
+      "id": 8,
+      "name": "美的(Midea) 2匹 新一级能效变频 智能柜机空调2P立式家用柜机KFR-51LWBP3DN8Y-YH200(1)",
+      "price": 5299,
+      "type": [
+        "【一级圆柜】-智能升级款"
+      ],
+      "types": "A",
+      "mainImg": [
+        "./static/img/空调/美的(Midea) 2匹 新一级能效变频 智能柜机空调2P立式家用柜机KFR-51LWBP3DN8Y-YH200(1)/main1.jpg",
+        "./static/img/空调/美的(Midea) 2匹 新一级能效变频 智能柜机空调2P立式家用柜机KFR-51LWBP3DN8Y-YH200(1)/main2.jpg"
+      ],
+      "detailImg": [
+        "./static/img/空调/美的(Midea) 2匹 新一级能效变频 智能柜机空调2P立式家用柜机KFR-51LWBP3DN8Y-YH200(1)/1.jpg",
+        "./static/img/空调/美的(Midea) 2匹 新一级能效变频 智能柜机空调2P立式家用柜机KFR-51LWBP3DN8Y-YH200(1)/2.jpg",
+        "./static/img/空调/美的(Midea) 2匹 新一级能效变频 智能柜机空调2P立式家用柜机KFR-51LWBP3DN8Y-YH200(1)/3.jpg"
+      ],
+      "moreAbout": "./static/img/空调/美的(Midea) 2匹 新一级能效变频 智能柜机空调2P立式家用柜机KFR-51LWBP3DN8Y-YH200(1)/canshu.png"
+    },
+    {
+      "id": 9,
+      "name": "美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3",
+      "price": 4999,
+      "type": [
+        "【高性价比变频】-智能升级版"
+      ],
+      "types": "A",
+      "mainImg": [
+        "./static/img/空调/美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3/main1.jpg",
+        "./static/img/空调/美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3/main2.jpg"
+      ],
+      "detailImg": [
+        "./static/img/空调/美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3/1.jpg",
+        "./static/img/空调/美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3/2.jpg",
+        "./static/img/空调/美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3/3.jpg"
+      ],
+      "moreAbout": "./static/img/空调/美的(Midea) 3匹 新能效变频 智能冷暖柜机空调 3P立式家用空调 智行 KFR-72LWN8MJA3/canshu.png"
+    },
+    {
+      "id": 10,
+      "name": "美的（Midea）集团华凌空调 大2匹新能效变频柜机 智能家用立柜式客厅空调 KFR-51LWN8HA3",
+      "price": 2999,
+      "type": [
+        "大2匹新能效变频柜机"
+      ],
+      "types": "A",
+      "mainImg": [
+        "./static/img/空调/美的（Midea）集团华凌空调 大2匹新能效变频柜机 智能家用立柜式客厅空调 KFR-51LWN8HA3/main1.jpg",
+        "./static/img/空调/美的（Midea）集团华凌空调 大2匹新能效变频柜机 智能家用立柜式客厅空调 KFR-51LWN8HA3/main2.jpg"
+      ],
+      "detailImg": [
+        "./static/img/空调/美的（Midea）集团华凌空调 大2匹新能效变频柜机 智能家用立柜式客厅空调 KFR-51LWN8HA3/1.jpg",
+        "./static/img/空调/美的（Midea）集团华凌空调 大2匹新能效变频柜机 智能家用立柜式客厅空调 KFR-51LWN8HA3/2.jpg",
+        "./static/img/空调/美的（Midea）集团华凌空调 大2匹新能效变频柜机 智能家用立柜式客厅空调 KFR-51LWN8HA3/3.jpg"
+      ],
+      "moreAbout": "./static/img/空调/美的（Midea）集团华凌空调 大2匹新能效变频柜机 智能家用立柜式客厅空调 KFR-51LWN8HA3/canshu.png"
+    }
+  ],
+  "washingMachines": [
+    {
+      "id": 1,
+      "name": "【美的出品】华凌8KG公斤全自动波轮 洗脱一体洗衣机 健康免清洗，洁净更随心 智利灰 HB80-C1H",
+      "price": 699,
+      "type": [
+        "美的出品 8公斤 健康免清洗"
+      ],
+      "types": "W",
+      "mainImg": [
+        "./static/img/洗衣机/【美的出品】华凌8KG公斤全自动波轮 洗脱一体洗衣机 健康免清洗，洁净更随心 智利灰 HB80-C1H/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/洗衣机/【美的出品】华凌8KG公斤全自动波轮 洗脱一体洗衣机 健康免清洗，洁净更随心 智利灰 HB80-C1H/1.jpg",
+        "./static/img/洗衣机/【美的出品】华凌8KG公斤全自动波轮 洗脱一体洗衣机 健康免清洗，洁净更随心 智利灰 HB80-C1H/2.jpg",
+        "./static/img/洗衣机/【美的出品】华凌8KG公斤全自动波轮 洗脱一体洗衣机 健康免清洗，洁净更随心 智利灰 HB80-C1H/3.jpg"
+      ],
+      "moreAbout": "./static/img/洗衣机/【美的出品】华凌8KG公斤全自动波轮 洗脱一体洗衣机 健康免清洗，洁净更随心 智利灰 HB80-C1H/canshu.png"
+    },
+    {
+      "id": 2,
+      "name": "创维(SKYWORTH) 8公斤全自动滚筒洗衣机 家用全自动洗衣机 洗脱一体（钛灰银）F80GS",
+      "price": 1199,
+      "type": [
+        "【除菌爆款】8公斤滚筒"
+      ],
+      "types": "W",
+      "mainImg": [
+        "./static/img/洗衣机/创维(SKYWORTH) 8公斤全自动滚筒洗衣机 家用全自动洗衣机 洗脱一体（钛灰银）F80GS/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/洗衣机/创维(SKYWORTH) 8公斤全自动滚筒洗衣机 家用全自动洗衣机 洗脱一体（钛灰银）F80GS/1.jpg",
+        "./static/img/洗衣机/创维(SKYWORTH) 8公斤全自动滚筒洗衣机 家用全自动洗衣机 洗脱一体（钛灰银）F80GS/2.jpg",
+        "./static/img/洗衣机/创维(SKYWORTH) 8公斤全自动滚筒洗衣机 家用全自动洗衣机 洗脱一体（钛灰银）F80GS/3.jpg"
+      ],
+      "moreAbout": "./static/img/洗衣机/创维(SKYWORTH) 8公斤全自动滚筒洗衣机 家用全自动洗衣机 洗脱一体（钛灰银）F80GS/canshu.png"
+    },
+    {
+      "id": 3,
+      "name": "海尔出品统帅(Leader)8公斤 全自动 波轮洗衣机 速洗 智能预约 宽水压宽电压设计 @B80M087",
+      "price": 769,
+      "type": [
+        "【爆款推荐】8公斤波轮 四重洗护"
+      ],
+      "types": "W",
+      "mainImg": [
+        "./static/img/洗衣机/海尔出品统帅(Leader)8公斤 全自动 波轮洗衣机 速洗 智能预约 宽水压宽电压设计 @B80M087/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/洗衣机/海尔出品统帅(Leader)8公斤 全自动 波轮洗衣机 速洗 智能预约 宽水压宽电压设计 @B80M087/1.jpg",
+        "./static/img/洗衣机/海尔出品统帅(Leader)8公斤 全自动 波轮洗衣机 速洗 智能预约 宽水压宽电压设计 @B80M087/2.jpg",
+        "./static/img/洗衣机/海尔出品统帅(Leader)8公斤 全自动 波轮洗衣机 速洗 智能预约 宽水压宽电压设计 @B80M087/3.jpg"
+      ],
+      "moreAbout": "./static/img/洗衣机/海尔出品统帅(Leader)8公斤 全自动 波轮洗衣机 速洗 智能预约 宽水压宽电压设计 @B80M087/canshu.png"
+    },
+    {
+      "id": 4,
+      "name": "美的(Midea)10公斤全自动变频滚筒洗衣机干衣机 洗干一体机 除菌除螨洗衣机60度恒温煮洗 MD100V332DG5",
+      "price": 2499,
+      "type": [
+        "【除螨爆款】10KG 滚筒消毒灭螨"
+      ],
+      "types": "W",
+      "mainImg": [
+        "./static/img/洗衣机/美的(Midea)10公斤全自动变频滚筒洗衣机干衣机 洗干一体机 除菌除螨洗衣机60度恒温煮洗 MD100V332DG5/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/洗衣机/美的(Midea)10公斤全自动变频滚筒洗衣机干衣机 洗干一体机 除菌除螨洗衣机60度恒温煮洗 MD100V332DG5/1.jpg"
+      ],
+      "moreAbout": "./static/img/洗衣机/美的(Midea)10公斤全自动变频滚筒洗衣机干衣机 洗干一体机 除菌除螨洗衣机60度恒温煮洗 MD100V332DG5/canshu.png"
+    },
+    {
+      "id": 5,
+      "name": "美的(Midea)新品8公斤全自动波轮洗脱一体洗衣机 免清洗内桶 水电双宽 家用白色 MB80ECO1",
+      "price": 799,
+      "type": [
+        "【行业爆款】8KG喷泉水流"
+      ],
+      "types": "W",
+      "mainImg": [
+        "./static/img/洗衣机/美的(Midea)新品8公斤全自动波轮洗脱一体洗衣机 免清洗内桶 水电双宽 家用白色 MB80ECO1/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/洗衣机/美的(Midea)新品8公斤全自动波轮洗脱一体洗衣机 免清洗内桶 水电双宽 家用白色 MB80ECO1/1.jpg"
+      ],
+      "moreAbout": "./static/img/洗衣机/美的(Midea)新品8公斤全自动波轮洗脱一体洗衣机 免清洗内桶 水电双宽 家用白色 MB80ECO1/canshu.png"
+    },
+    {
+      "id": 6,
+      "name": "西门子（SIEMENS）8公斤 洗干一体机 全自动变频滚筒洗衣机 洗烘一体 热风除菌 XQG80-WD12G4681W",
+      "price": 4399,
+      "type": [
+        "【洗烘机王】8洗5烘 热风除菌"
+      ],
+      "types": "W",
+      "mainImg": [
+        "./static/img/洗衣机/西门子（SIEMENS）8公斤 洗干一体机 全自动变频滚筒洗衣机 洗烘一体 热风除菌 XQG80-WD12G4681W/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/洗衣机/西门子（SIEMENS）8公斤 洗干一体机 全自动变频滚筒洗衣机 洗烘一体 热风除菌 XQG80-WD12G4681W/1.gif",
+        "./static/img/洗衣机/西门子（SIEMENS）8公斤 洗干一体机 全自动变频滚筒洗衣机 洗烘一体 热风除菌 XQG80-WD12G4681W/2.gif",
+        "./static/img/洗衣机/西门子（SIEMENS）8公斤 洗干一体机 全自动变频滚筒洗衣机 洗烘一体 热风除菌 XQG80-WD12G4681W/3.gif"
+      ],
+      "moreAbout": "./static/img/洗衣机/西门子（SIEMENS）8公斤 洗干一体机 全自动变频滚筒洗衣机 洗烘一体 热风除菌 XQG80-WD12G4681W/canshu.png"
+    },
+    {
+      "id": 7,
+      "name": "小天鹅(LittleSwan) 8公斤 全自动波轮洗衣机 2级能效 节能低功耗 自清洁 洗脱一体机 TB80V20",
+      "price": 949,
+      "type": [
+        "【爆款免清洗】8KG品质电机"
+      ],
+      "types": "W",
+      "mainImg": [
+        "./static/img/洗衣机/小天鹅(LittleSwan) 8公斤 全自动波轮洗衣机 2级能效 节能低功耗 自清洁 洗脱一体机 TB80V20/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/洗衣机/小天鹅(LittleSwan) 8公斤 全自动波轮洗衣机 2级能效 节能低功耗 自清洁 洗脱一体机 TB80V20/1.jpg",
+        "./static/img/洗衣机/小天鹅(LittleSwan) 8公斤 全自动波轮洗衣机 2级能效 节能低功耗 自清洁 洗脱一体机 TB80V20/2.jpg",
+        "./static/img/洗衣机/小天鹅(LittleSwan) 8公斤 全自动波轮洗衣机 2级能效 节能低功耗 自清洁 洗脱一体机 TB80V20/3.jpg"
+      ],
+      "moreAbout": "./static/img/洗衣机/小天鹅(LittleSwan) 8公斤 全自动波轮洗衣机 2级能效 节能低功耗 自清洁 洗脱一体机 TB80V20/canshu.png"
+    },
+    {
+      "id": 8,
+      "name": "小天鹅(LittleSwan) 8公斤 全自动波轮洗衣机 健康免清洗 深层除螨洗 时尚外观 新款 TB80V23H",
+      "price": 899,
+      "type": [
+        "【免清洗王者波轮】8KG除螨洗"
+      ],
+      "types": "W",
+      "mainImg": [
+        "./static/img/洗衣机/小天鹅(LittleSwan) 8公斤 全自动波轮洗衣机 健康免清洗 深层除螨洗 时尚外观 新款 TB80V23H/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/洗衣机/小天鹅(LittleSwan) 8公斤 全自动波轮洗衣机 健康免清洗 深层除螨洗 时尚外观 新款 TB80V23H/1.jpg",
+        "./static/img/洗衣机/小天鹅(LittleSwan) 8公斤 全自动波轮洗衣机 健康免清洗 深层除螨洗 时尚外观 新款 TB80V23H/2.jpg",
+        "./static/img/洗衣机/小天鹅(LittleSwan) 8公斤 全自动波轮洗衣机 健康免清洗 深层除螨洗 时尚外观 新款 TB80V23H/3.jpg"
+      ],
+      "moreAbout": "./static/img/洗衣机/小天鹅(LittleSwan) 8公斤 全自动波轮洗衣机 健康免清洗 深层除螨洗 时尚外观 新款 TB80V23H/canshu.png"
+    },
+    {
+      "id": 9,
+      "name": "小天鹅(LittleSwan) 10公斤 滚筒洗衣机全自动 健康除菌 洗脱一体 静音变频 TG100VN60DG",
+      "price": 2099,
+      "type": [
+        "【行业王者滚筒】10KG除菌变频"
+      ],
+      "types": "W",
+      "mainImg": [
+        "./static/img/洗衣机/小天鹅(LittleSwan) 10公斤 滚筒洗衣机全自动 健康除菌 洗脱一体 静音变频 TG100VN60DG/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/洗衣机/小天鹅(LittleSwan) 10公斤 滚筒洗衣机全自动 健康除菌 洗脱一体 静音变频 TG100VN60DG/1.jpg",
+        "./static/img/洗衣机/小天鹅(LittleSwan) 10公斤 滚筒洗衣机全自动 健康除菌 洗脱一体 静音变频 TG100VN60DG/2.jpg",
+        "./static/img/洗衣机/小天鹅(LittleSwan) 10公斤 滚筒洗衣机全自动 健康除菌 洗脱一体 静音变频 TG100VN60DG/3.jpg"
+      ],
+      "moreAbout": "./static/img/洗衣机/小天鹅(LittleSwan) 10公斤 滚筒洗衣机全自动 健康除菌 洗脱一体 静音变频 TG100VN60DG/canshu.png"
+    },
+    {
+      "id": 10,
+      "name": "小天鹅(LittleSwan) 10公斤洗干一体机 滚筒洗衣机全自动 健康除菌 智能家电 TD100VN60WDG",
+      "price": 2999,
+      "type": [
+        "【除菌+空气洗】10KG王牌洗烘"
+      ],
+      "types": "W",
+      "mainImg": [
+        "./static/img/洗衣机/小天鹅(LittleSwan) 10公斤洗干一体机 滚筒洗衣机全自动 健康除菌 智能家电 TD100VN60WDG/main.jpg"
+      ],
+      "detailImg": [
+        "./static/img/洗衣机/小天鹅(LittleSwan) 10公斤洗干一体机 滚筒洗衣机全自动 健康除菌 智能家电 TD100VN60WDG/1.jpg",
+        "./static/img/洗衣机/小天鹅(LittleSwan) 10公斤洗干一体机 滚筒洗衣机全自动 健康除菌 智能家电 TD100VN60WDG/2.jpg",
+        "./static/img/洗衣机/小天鹅(LittleSwan) 10公斤洗干一体机 滚筒洗衣机全自动 健康除菌 智能家电 TD100VN60WDG/3.jpg"
+      ],
+      "moreAbout": "./static/img/洗衣机/小天鹅(LittleSwan) 10公斤洗干一体机 滚筒洗衣机全自动 健康除菌 智能家电 TD100VN60WDG/canshu.png"
+    }
+  ]
+}

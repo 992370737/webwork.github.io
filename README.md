@@ -1,6 +1,3 @@
-### 部署地址
-        webwork.github.io
-
 ### 简介
         网上商城前端网站
         作者：992370737(Z09418207黄诚江)
@@ -35,3 +32,7 @@
         2.json-server --watch db.json // 打开json-server数据库
 
         3.打开项目内dist目录下的index.html即可打开(但是由于在项目打包时element-ui没有能够打包进去，所以打开的时候会导致一些图标不能显示，因此推荐方式一打开)
+
+### 部署地址
+        https://992370737.github.io/webwork.github.io/
+        
