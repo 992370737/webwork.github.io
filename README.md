@@ -34,5 +34,5 @@
         3.打开项目内dist目录下的index.html即可打开(但是由于在项目打包时element-ui没有能够打包进去，所以打开的时候会导致一些图标不能显示，因此推荐方式一打开)
 
 ### 部署地址
-        https://992370737.github.io/webwork.github.io/
+        https://github.com/992370737/webwork.github.io.git
         
